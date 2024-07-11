@@ -1,0 +1,66 @@
+.product-list {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: auto;
+  align-items: center;
+}
+
+.product-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.heading {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.load {
+  text-align: center;
+}
+
+.button {
+  margin: auto;
+  border-radius: 5%;
+  border-color: green;
+  padding: 10px;
+  width: 100px;
+}
+
+
+/* Navbar.css */
+
+.navbar {
+  background-color: #333;
+  padding: 1rem;
+}
+
+.navbar-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.navbar-item {
+  margin-right: 1rem;
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-link:hover {
+  background-color: #555;
+}
